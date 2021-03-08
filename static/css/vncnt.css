@@ -34,7 +34,8 @@
     --border-color: hsl(var(--theme-hue), 0%, 27%);           /* button border */
     --border-color-softer: hsl(var(--theme-hue), 0%, 20%);    /* textarea,select,code,td,hr border   */
   
-    --background-color: hsl(var(--theme-hue), 0%, 12%);       /* body background; textarea,select background */
+    /*--background-color: hsl(var(--theme-hue), 0%, 100%);*/       /* body background; textarea,select background */
+    --background-color: #2e2d2c;       /* body background; textarea,select background */
     --background-color-softer: hsl(var(--theme-hue), 0%, 18%);
     --code-background: hsl(var(--theme-hue), 0%, 5%);         /* code background*/
 
